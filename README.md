@@ -10,7 +10,7 @@ This Template_file is used as the template for the web app
 
 Instructions:
 1. Clone the repo by copying the link
-2.Open your terminal.Then go to the folder where you want to save the project.
+2. Open your terminal.Then go to the folder where you want to save the project.
 
 cd Desktop
 
